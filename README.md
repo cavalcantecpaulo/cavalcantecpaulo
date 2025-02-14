@@ -1,8 +1,8 @@
 # 🤟Paulo aqui!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP  
-💻 Buscando meu primeiro estágio em **tecnologia**, com interesse na área de **dados**  
-🚀 Apaixonado por **tecnologia, programação e aprendizado contínuo**  
+🏢 Buscando meu primeiro estágio em **tecnologia**
+💻 Interesse em **tecnologia, programação e dados**  
 📚 Atualmente fazendo a **Formação ONE da Alura**  
 
 ---
