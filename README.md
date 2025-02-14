@@ -9,8 +9,8 @@
 ---
 
 ### 🛠 Tecnologias e Ferramentas:
-- 📌 **Linguagens:** C, Java, SQL  
-- 🔹 **Banco de Dados:** MySQL, SQLite  
+- 📌 **Linguagens:** C, Java, SQL, Javascript 
+- 🔹 **Banco de Dados:** MySQL  
 - ⚙ **Ferramentas:** Git, VS Code, Linux  
 
 ---
