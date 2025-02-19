@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP  
 🏢 Buscando meu primeiro estágio na área de tecnologia  
 💻 Interesse em **tecnologia, programação e dados**  
-📚 Atualmente fazendo a **Formação ONE da Alura**  
+📚 Atualmente fazendo a **Formação ONE da Oracle na plataforma Alura**  
 
 
 ---
