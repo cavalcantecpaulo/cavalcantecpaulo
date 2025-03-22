@@ -5,25 +5,29 @@
 💻 Interesse em **tecnologia, programação e dados**  
 📚 Atualmente fazendo a **Formação ONE da Oracle na plataforma Alura**  
 
-
----
-
-### 🐱 Estatísticas GitHub:
+## 🐱 Estatísticas GitHub:
   
-<p align="center" flex-direction="column">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=cavalcantecpaulo&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86&rank_icon=github" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantecpaulo&layout=compact&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86" />
-</p>
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantecpaulo&layout=compact&theme=radical" /> 
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcantecpaulo&theme=radical" /> 
+</div>
 
----
+## 👨‍💻 Tecnologias e Ferramentas
 
-### 🛠 Tecnologias e Ferramentas:
-- 📌 **Linguagens:** C, Java, SQL, Javascript 
-- 🔹 **Banco de Dados:** MySQL  
-- ⚙ **Ferramentas:** Git, VS Code, Linux  
+### Linguagens de Programação:
 
----
+- C: Experiência em desenvolvimento de sistemas, resolução de problemas lógicos e manipulação de dados.
 
-### 🌍 Minhas Redes:
+- Java: Conhecimento em programação orientada a objetos, com ênfase em back-end e desenvolvimento de soluções escaláveis.
+
+- JavaScript: Habilidade em criação de interfaces dinâmicas e interativas para front-end.
+
+### 🛠️ Ferramentas de Desenvolvimento:
+
+- Git: Proficiência em versionamento de código, gestão de branches, e colaboração em equipe através do controle de versões.
+
+- Linux: Experiência prática no uso do sistema operacional para desenvolvimento, automação de tarefas e configuração de ambientes.
+
+## 🌍 Minhas Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paulocavalcantec/)  
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:pauloc1807@hotmail.com)
