@@ -11,10 +11,9 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantecpaulo&layout=compact&theme=dark" /> 
     <img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcantecpaulo&theme=dark" /> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    ![Wakatime Stats](https://wakatime.com/badge/cavalcantecpaulo/cavalcantecpaulo.svg)
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg?username=cavalcantecpaulo">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?username=cavalcantecpaulo">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg?username=cavalcantecpaulo">
 </picture>
 </div>
 
