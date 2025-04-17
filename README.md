@@ -12,6 +12,14 @@
     <img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcantecpaulo&theme=dark" /> 
 </div>
 
+## 🕐 Stats WakaTime:
+
+### Linguagens que eu mais usei
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/wakatime?username=6b3ac09f-0c88-4f9e-9741-1b545e3dd303&layout=compact&theme=dark&hide_title=true)](https://wakatime.com/@6b3ac09f-0c88-4f9e-9741-1b545e3dd303)
+
+### Gráfico de atividades
+![Estatísticas detalhadas](https://wakatime.com/share/@6b3ac09f-0c88-4f9e-9741-1b545e3dd303/7a8b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d.svg)
+
 ## 👨‍💻 Tecnologias e Ferramentas
 
 ### Linguagens de Programação:
