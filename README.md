@@ -1,9 +1,8 @@
 # 🤟Paulo aqui!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFSP  
-🏢 Buscando meu primeiro estágio na área de tecnologia  
-💻 Interesse em **tecnologia, programação e dados**  
-📚 Atualmente fazendo a **Formação ONE da Oracle na plataforma Alura**  
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+- 🏢 Estagiário em Engenharia de Software no Banco PAN
+- 💻 Interesse em back-end, APIs, cloud e engenharia de software
 
 ## 🐱 Estatísticas GitHub:
   
@@ -14,27 +13,36 @@
 
 ## 🕐 Stats WakaTime:
 
-### Linguagens que eu mais usei
+### Linguagens que eu mais utilizei recentemente
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/wakatime?username=6b3ac09f-0c88-4f9e-9741-1b545e3dd303&layout=compact&theme=dark&hide_title=true)](https://wakatime.com/@6b3ac09f-0c88-4f9e-9741-1b545e3dd303)
 
-### Gráfico de atividades
-![Estatísticas detalhadas](https://wakatime.com/share/@6b3ac09f-0c88-4f9e-9741-1b545e3dd303/7a8b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d.svg)
+# 👨‍💻 Tecnologias e Conhecimentos
+## 💻 Linguagens de Programação
+C#:
+- Estudo e aplicação dos fundamentos de programação orientada a objetos, desenvolvimento back-end e lógica de negócio, com foco em APIs e qualidade de software.
 
-## 👨‍💻 Tecnologias e Ferramentas
+Java:
+- Base em programação orientada a objetos, compreensão de estrutura de classes, métodos, herança e encapsulamento, aplicada a contextos de back-end.
 
-### Linguagens de Programação:
+C:
+- Experiência acadêmica com lógica de programação, estruturação de algoritmos e manipulação de dados em baixo nível.
 
-- C: Experiência em desenvolvimento de sistemas, resolução de problemas lógicos e manipulação de dados.
+## 🧠 Conceitos e Práticas de Desenvolvimento
+Programação Orientada a Objetos (POO):
+- Aplicação de conceitos como classes, objetos, encapsulamento, herança e polimorfismo.
 
-- Java: Conhecimento em programação orientada a objetos, com ênfase em back-end e desenvolvimento de soluções escaláveis.
+Desenvolvimento Back-end
+- Compreensão de fluxos de negócio, validação de dados, tratamento de erros e integração entre serviços.
 
-- JavaScript: Habilidade em criação de interfaces dinâmicas e interativas para front-end.
+APIs REST
+- Entendimento de comunicação entre sistemas, requisições HTTP, responses e validação de fluxos.
 
-### 🛠️ Ferramentas de Desenvolvimento:
+## ☁️ Noções de Cloud e Ambientes Corporativos
+Ambientes de Homologação e Produção
+- Participação em validações e mudanças técnicas seguindo processos formais de governança.
 
-- Git: Proficiência em versionamento de código, gestão de branches, e colaboração em equipe através do controle de versões.
-
-- Linux: Experiência prática no uso do sistema operacional para desenvolvimento, automação de tarefas e configuração de ambientes.
+Controle de Acesso e Segurança
+- Noções práticas de organização de permissões e segregação de acessos em ambientes corporativos.
 
 ## 🌍 Minhas Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paulocavalcantec/)  
