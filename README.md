@@ -1,7 +1,7 @@
 # 👋 Olá, Paulo Cavalcante por aqui!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-End;C%23+%7C+Java+%7C+Python;Construção de Soluções com Engenharia de Software;Sempre+aprendendo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-End;C%23+%7C+Java+%7C+Python;Construção+de+Soluções+com+Engenharia+de+Software;Sempre+aprendendo" />
 </p>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
