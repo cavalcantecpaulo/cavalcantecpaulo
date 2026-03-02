@@ -1,49 +1,62 @@
-# 🤟Paulo aqui!
+# 👋 Olá, Paulo Cavalcante por aqui!
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
-- 🏢 Estagiário em Engenharia de Software no Banco PAN
-- 💻 Interesse em back-end, APIs, cloud e engenharia de software
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=Desenvolvedor+Back-End;C%23+%7C+Java+%7C+Python;Construção de Soluções com Engenharia de Software;Sempre+aprendendo" />
+</p>
 
-## 🐱 Estatísticas GitHub:
-  
-<div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcantecpaulo&layout=compact&theme=dark" /> 
-    <img width="53%" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcantecpaulo&theme=dark" /> 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)  
+🏦 Estagiário em Engenharia de Software no Banco PAN  
+💻 Focado em Back-end, APIs REST e Engenharia de Software  
+🚀 Em constante evolução  
+
+---
+
+## 🧠 Sobre mim
+
+Sou estudante de ADS na FIAP e atualmente atuo como estagiário em Engenharia de Software no setor bancário.
+
+Tenho foco em desenvolvimento back-end, construção de APIs REST e boas práticas de engenharia de software.  
+Busco evoluir constantemente em arquitetura, qualidade de código, cloud e sistemas escaláveis.
+
+
+## 🚀 Projetos em Destaque
+
+### 💰 Sistema de Controle Financeiro
+Aplicação web para controle de receitas e despesas, com geração de gráficos e controle de limites por categoria.
+
+**Stack:** Spring Boot, Java, integração Front + Back   
+🔗 [Gestão Financeira](https://github.com/cavalcantecpaulo/projetos-faculdade/tree/main/GestaoFinanceira)
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,postgresql,mysql,python,aws,git,github,postman" />
+
 </div>
 
-## 🕐 Stats WakaTime:
+### 🔧 Conceitos
+- Programação Orientada a Objetos (POO)
+- Arquitetura em camadas
+- APIs REST
+- Validação e tratamento de erros
+- Ambientes de homologação e produção
+- Controle de acesso e segurança
 
-### Linguagens que eu mais utilizei recentemente
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/wakatime?username=6b3ac09f-0c88-4f9e-9741-1b545e3dd303&layout=compact&theme=dark&hide_title=true)](https://wakatime.com/@6b3ac09f-0c88-4f9e-9741-1b545e3dd303)
 
-# 👨‍💻 Tecnologias e Conhecimentos
-## 💻 Linguagens de Programação
-C#:
-- Estudo e aplicação dos fundamentos de programação orientada a objetos, desenvolvimento back-end e lógica de negócio, com foco em APIs e qualidade de software.
+## 📚 Atualmente Estudando
 
-Java:
-- Base em programação orientada a objetos, compreensão de estrutura de classes, métodos, herança e encapsulamento, aplicada a contextos de back-end.
+- .NET e construção de APIs com C#
+- Arquitetura limpa
+- Boas práticas de engenharia de software
+- Conceitos de cloud
+- Estruturas de dados e melhoria de lógica
 
-C:
-- Experiência acadêmica com lógica de programação, estruturação de algoritmos e manipulação de dados em baixo nível.
+## 🎯 Objetivo
 
-## 🧠 Conceitos e Práticas de Desenvolvimento
-Programação Orientada a Objetos (POO):
-- Aplicação de conceitos como classes, objetos, encapsulamento, herança e polimorfismo.
+Construir carreira sólida como desenvolvedor back-end, evoluindo para engenheiro de software com foco em arquitetura, qualidade e sistemas escaláveis.
 
-Desenvolvimento Back-end
-- Compreensão de fluxos de negócio, validação de dados, tratamento de erros e integração entre serviços.
-
-APIs REST
-- Entendimento de comunicação entre sistemas, requisições HTTP, responses e validação de fluxos.
-
-## ☁️ Noções de Cloud e Ambientes Corporativos
-Ambientes de Homologação e Produção
-- Participação em validações e mudanças técnicas seguindo processos formais de governança.
-
-Controle de Acesso e Segurança
-- Noções práticas de organização de permissões e segregação de acessos em ambientes corporativos.
-
-## 🌍 Minhas Redes:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paulocavalcantec/)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:pauloc1807@hotmail.com)
+## 🌍 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/paulocavalcantec/)
+[![Email](https://img.shields.io/badge/Email-white?logo=hotmail&style=for-the-badge)](mailto:pauloc1807@hotmail.com)
